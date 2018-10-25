@@ -1,5 +1,8 @@
 # meteor-autoform-hint
-Add hints to your quickForms using SimpleSchema.
+Add hints to your quickForms, defined via  SimpleSchema.
+
+Compatible with bootstrap3 and bootstrap4.
+
 
 
 ## Installation
@@ -8,7 +11,13 @@ Add hints to your quickForms using SimpleSchema.
 meteor add jkuester:autoform-hint
 ```
 
-This will auto-override the rendering method of `afFormGroup_bootstrap3` template. The template will keep all it's original functionality. Works also with bootstrap4.
+If you want to use bootstrap 4 add the following package:
+
+```
+meteor add imajus:autoform-bootstrap4
+```
+
+This will auto-override the rendering method of `afFormGroup_bootstrap3` and `afFormGroup_bootstrap4` template. The template will keep all it's original functionality. Works also with bootstrap4.
 
 ### Usage
 
