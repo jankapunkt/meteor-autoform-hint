@@ -23,4 +23,5 @@ Template.prototype._override = function (replacement) {
   }
 }
 
-Template.afFormGroup_bootstrap3._override('afFormGroup_hint')
+Template.afFormGroup_bootstrap3._override('afFormGroup_hint3')
+Template.afFormGroup_bootstrap4._override('afFormGroup_hint4')
