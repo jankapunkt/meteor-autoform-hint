@@ -1,8 +1,8 @@
-# meteor-autoform-hint
-Add hints to your quickForms, defined via  SimpleSchema.
+# Meteor AutoForm Hint
+Add hints to your quickForms, defined via  SimpleSchema. Compatible with bootstrap3 and bootstrap4.
 
-Compatible with bootstrap3 and bootstrap4.
-
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+![GitHub](https://img.shields.io/github/license/jankapunkt/meteor-autoform-hint.svg)
 
 
 ## Installation
